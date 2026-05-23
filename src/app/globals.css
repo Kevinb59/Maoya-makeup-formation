@@ -271,7 +271,6 @@ body { margin: 0; }
   width: 100%;
   min-height: 100vh;
   min-height: 100svh;
-  min-height: 100dvh;
   margin: 0;
   padding: 0 1rem;
   display: grid;
@@ -745,14 +744,10 @@ body { margin: 0; }
   .nav-shell { min-height: 62px; }
   .hero-logo { width: clamp(288px, 61.5vw, 372px); margin-bottom: .9rem; }
   .hero-section {
-    /* 100svh stable : évite le redimensionnement quand la barre d'adresse mobile se cache */
+    /* 100svh stable : évite le redimensionnement du contenu au scroll mobile */
     min-height: 100svh;
     background-position: center;
-    /* fixed provoque zoom/saut du fond au scroll sur iOS et Android */
-    background-attachment: scroll;
-  }
-  .testimonial-section {
-    background-attachment: scroll;
+    background-attachment: fixed;
   }
   .hero-content h1 { font-size: clamp(2.45rem, 11vw, 3.65rem); }
   .hero-subtitle { font-size: clamp(1.55rem, 7.6vw, 2.55rem); }
