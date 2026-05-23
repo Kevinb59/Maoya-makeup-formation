@@ -745,8 +745,14 @@ body { margin: 0; }
   .nav-shell { min-height: 62px; }
   .hero-logo { width: clamp(288px, 61.5vw, 372px); margin-bottom: .9rem; }
   .hero-section {
+    /* 100svh stable : évite le redimensionnement quand la barre d'adresse mobile se cache */
+    min-height: 100svh;
     background-position: center;
-    background-attachment: fixed;
+    /* fixed provoque zoom/saut du fond au scroll sur iOS et Android */
+    background-attachment: scroll;
+  }
+  .testimonial-section {
+    background-attachment: scroll;
   }
   .hero-content h1 { font-size: clamp(2.45rem, 11vw, 3.65rem); }
   .hero-subtitle { font-size: clamp(1.55rem, 7.6vw, 2.55rem); }
