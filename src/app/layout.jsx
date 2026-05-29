@@ -4,11 +4,19 @@ import { site } from "@/data/site";
 
 /* 1. URL canonique du site
    - Objectif : générer des URLs absolues pour Open Graph (aperçu SMS, WhatsApp, réseaux).
-   - Variables clés : `NEXT_PUBLIC_SITE_URL` en prod, fallback Vercel puis domaine Maoya.
-   - Logique : `metadataBase` permet à Next.js de résoudre `/og/share.png` en URL complète. */
+   - Variables clés : `NEXT_PUBLIC_SITE_URL` en prod, puis alias Vercel public (jamais l'URL preview hashée).
+   - Logique : les previews Vercel (`*-xxx.vercel.app`) renvoient 401 aux crawlers → image invisible en SMS. */
 function getMetadataBase() {
   if (process.env.NEXT_PUBLIC_SITE_URL) {
     return new URL(process.env.NEXT_PUBLIC_SITE_URL);
+  }
+
+  if (process.env.VERCEL_ENV === "production") {
+    if (process.env.VERCEL_PROJECT_PRODUCTION_URL) {
+      return new URL(`https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`);
+    }
+
+    return new URL("https://maoya-makeup-formation.vercel.app");
   }
 
   if (process.env.VERCEL_URL) {
@@ -33,7 +41,7 @@ export const metadata = {
       {
         url: site.shareImage,
         width: 1200,
-        height: 630,
+        height: 558,
         alt: "Maoya Makeup Formation — formations maquillage et conseil en image à Lille",
       },
     ],
