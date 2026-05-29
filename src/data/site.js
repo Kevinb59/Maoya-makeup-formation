@@ -1,13 +1,17 @@
 import { logos } from "./assets";
 
 export const site = {
-  baseUrl: "https://www.maoyamakeupformation.com",
+  baseUrl: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.maoyamakeupformation.com",
   logo: logos.main,
   phone: "0359518771",
   email: "maoya.lille@gmail.com",
   address: "4 Rue de l'Égalité, 59160 Lille, France",
   mapsUrl:
     "https://www.google.com/maps/search/?api=1&query=4+Rue+de+l%27%C3%89galit%C3%A9,+59160+Lille,+France",
+  shareImage: "/og/share.png",
+  shareTitle: "Maoya Makeup Formation — Formation en maquillage & conseil en image",
+  shareDescription:
+    "Formation en maquillage individuelle et personnalisée à Lille et à distance. Éligible CPF, paiement en 4x.",
 };
 
 const fallbackSvg = encodeURIComponent(
