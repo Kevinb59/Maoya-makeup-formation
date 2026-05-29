@@ -35,6 +35,7 @@ export const images = {
   ],
   about: {
     centre: "/images/about/centre-maoya.jpg",
+    sectionDecor: "/images/about/about-section-decor.webp",
   },
   distance: {
     video: "/images/distance/video-apprentissage.jpg",
