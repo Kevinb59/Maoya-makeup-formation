@@ -12,12 +12,11 @@ import {
 import { images } from "./assets";
 
 export const navItems = [
-  { label: "Accueil", href: "https://www.maoyamakeupformation.com/" },
-  { label: "Formation certifiante", href: "https://www.maoyamakeupformation.com/formation-certifiante/" },
-  { label: "Formations à Lille", href: "https://www.maoyamakeupformation.com/formation-a-lille/" },
-  { label: "Pack de formation hybride", href: "https://www.maoyamakeupformation.com/a-distance/" },
-  { label: "Contactez-nous", href: "https://www.maoyamakeupformation.com/contact/" },
-  { label: "Panier", href: "https://www.maoyamakeupformation.com/cart-2/" },
+  { label: "Accueil", href: "/" },
+  { label: "Formation certifiante", href: "/formation-certifiante/" },
+  { label: "Formations à Lille", href: "/formation-a-lille/" },
+  { label: "Pack de formation hybride", href: "/a-distance/" },
+  { label: "Contactez-nous", href: "/contact/" },
 ];
 
 export const highlights = [
@@ -26,21 +25,21 @@ export const highlights = [
     title: "Dans notre centre de Lille",
     text: "Toutes nos formations sont disponibles dans notre centre de Lille tout équipé + un studio photo pour la réalisation de votre book.",
     image: images.highlights.lille,
-    href: "https://www.maoyamakeupformation.com/formation-a-lille/",
+    href: "/formation-a-lille/",
   },
   {
     icon: Award,
     title: "Éligible au CPF",
     text: "Formation de 35H : Réaliser un maquillage professionnel.",
     image: images.highlights.cpf,
-    href: "https://www.maoyamakeupformation.com/formation-certifiante/",
+    href: "/formation-certifiante/",
   },
   {
     icon: Video,
     title: "À distance",
     text: "Théorie et démonstration en vidéo. Pratique en visio + 1 ou 2 jours de masterclass avec 2 grands maquilleurs parisiens.",
     image: images.highlights.distance,
-    href: "https://www.maoyamakeupformation.com/a-distance/",
+    href: "/a-distance/",
   },
   {
     icon: CreditCard,
@@ -77,38 +76,8 @@ export const distanceSteps = [
   },
 ];
 
-export const products = [
-  {
-    title: "Formation maquillage beauté studio",
-    price: "1,180.00€",
-    image: images.products.beauteStudio,
-    href: "https://www.maoyamakeupformation.com/product/formation-maquillage-beaute-studio/",
-  },
-  {
-    title: "Formation maquillage de la mariée",
-    price: "590.00€",
-    image: images.products.mariee,
-    href: "https://www.maoyamakeupformation.com/product/formation-maquillage-de-la-mariee/",
-  },
-  {
-    title: "Formation maquillage effets spéciaux",
-    price: "1,200.00€",
-    image: images.products.effetsSpeciaux,
-    href: "https://www.maoyamakeupformation.com/product/formation-maquillage-effets-speciaux/",
-  },
-  {
-    title: "Formation Maquillage Facepainting",
-    price: "690.00€",
-    image: images.products.facepainting,
-    href: "https://www.maoyamakeupformation.com/product/formation-facepainting/",
-  },
-  {
-    title: "Formation maquillage jour",
-    price: "290.00€",
-    image: images.products.maquillageJour,
-    href: "https://www.maoyamakeupformation.com/product/formation-maquillage-jour/",
-  },
-];
+/** @deprecated Utiliser `getAllFormations()` depuis `@/data/formations`. */
+export const products = [];
 
 export const studentGallery = images.gallery;
 

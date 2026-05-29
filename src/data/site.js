@@ -4,6 +4,10 @@ export const site = {
   baseUrl: "https://www.maoyamakeupformation.com",
   logo: logos.main,
   phone: "0359518771",
+  email: "maoya.lille@gmail.com",
+  address: "4 Rue de l'Égalité, 59160 Lille, France",
+  mapsUrl:
+    "https://www.google.com/maps/search/?api=1&query=4+Rue+de+l%27%C3%89galit%C3%A9,+59160+Lille,+France",
 };
 
 const fallbackSvg = encodeURIComponent(

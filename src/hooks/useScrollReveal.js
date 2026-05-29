@@ -11,8 +11,12 @@ export function useScrollReveal() {
 
     if (elements.length === 0) return undefined;
 
+    const revealElement = (element) => {
+      element.classList.add("is-visible");
+    };
+
     if (!("IntersectionObserver" in window)) {
-      elements.forEach((element) => element.classList.add("is-visible"));
+      elements.forEach(revealElement);
       return undefined;
     }
 
@@ -20,7 +24,7 @@ export function useScrollReveal() {
       (entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
-            entry.target.classList.add("is-visible");
+            revealElement(entry.target);
             observer.unobserve(entry.target);
           }
         });

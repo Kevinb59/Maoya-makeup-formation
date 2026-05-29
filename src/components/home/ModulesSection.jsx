@@ -39,7 +39,7 @@ export default function ModulesSection() {
             <a href="https://www.maoyamakeupformation.com/formation-a-lille/">
               Formation à Lille
             </a>
-            <a href="https://www.maoyamakeupformation.com/a-distance/">
+            <a href="/a-distance/">
               Formation à distance
             </a>
           </div>

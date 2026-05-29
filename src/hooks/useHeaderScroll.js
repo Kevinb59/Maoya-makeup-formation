@@ -13,7 +13,17 @@ export function useHeaderScroll() {
     const clamp = (value, min, max) => Math.min(Math.max(value, min), max);
 
     const handleScroll = () => {
-      const hero = document.querySelector(".hero-section");
+      /* Pages sans hero sombre : header lisible dès le haut (fiches formation). */
+      if (document.querySelector(".formation-detail-page, .product-detail-page")) {
+        setHeaderProgress(1);
+        return;
+      }
+
+      /* Hero plein écran — accueil ou pages internes (contact, hybride, certif, Lille). */
+      const hero =
+        document.querySelector(
+          ".hero-section, .contact-hero, .hybride-hero, .certif-hero, .lille-hero"
+        ) ?? null;
       const heroHeight = hero instanceof HTMLElement ? hero.offsetHeight : window.innerHeight;
       const headerHeight = 74;
       const fadeEnd = Math.max(heroHeight - headerHeight, 1);

@@ -21,7 +21,7 @@ export default function HeroSection() {
           <a className="button primary" href="#programmes">
             Choisissez vos modules <ArrowRight size={18} />
           </a>
-          <a className="button ghost" href="https://www.maoyamakeupformation.com/contact/">
+          <a className="button ghost" href="/contact/">
             Contactez-nous
           </a>
         </div>

@@ -1,0 +1,990 @@
+{
+  "formations": [
+    {
+      "id": "formation-maquillage-beaute-studio",
+      "slug": "formation-maquillage-beaute-studio",
+      "category": "Formation Makeup",
+      "name": "Formation maquillage beauté studio",
+      "price": 1180,
+      "priceLabel": "1 180,00 €",
+      "image": "/images/products/beaute-studio.jpg",
+      "promo": false,
+      "sortOrder": 1,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-maquillage-beaute-studio/",
+      "subtitle": "Formation Maquillage Beauté Professionnel",
+      "introTitle": "Maîtrisez les techniques des maquilleurs professionnels",
+      "introText": "Apprenez à réaliser des maquillages dignes des mariages, shootings beauté et défilés de mode.\n\nCette formation propose une immersion complète dans les techniques avancées du maquillage. Conçue pour être immédiatement opérationnelle, elle allie rigueur technique et polyvalence créative.",
+      "highlights": [
+        "Teint naturel et teint parfait",
+        "Techniques professionnelles des yeux",
+        "Maquillage mariée",
+        "Maquillage mode et scène",
+        "Travail sur toutes les carnations"
+      ],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des maquillages dignes des mariages, shootings beauté et défilés de mode.",
+        "Cette formation vous transmet les techniques essentielles du maquillage professionnel : du teint lumineux et naturel des mariées aux maquillages plus sophistiqués inspirés de la mode et de la scène.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 3h30 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles utilisées par les maquilleurs professionnels."
+        },
+        {
+          "title": "💻 4 sessions de coaching en visio (2h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer, recevoir des corrections personnalisées et améliorer votre technique.\nLes exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 10 heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des maquilleurs expérimentés pour perfectionner votre gestuelle votre précision et répondre à toutes vos questions.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir des techniques et conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Shooting photo professionnel",
+              "text": "Un shooting réalisé avec une photographe professionnelle dans notre studio, afin de valoriser votre travail et commencer votre portfolio."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques du teint",
+          "items": [
+            "Application d'un teint parfait",
+            "Le contouring"
+          ]
+        },
+        {
+          "title": "Techniques des yeux",
+          "items": [
+            "Yeux étirés : la banane / le cut crease",
+            "Le halo",
+            "Le smoky eyes",
+            "Le full cut crease"
+          ]
+        },
+        {
+          "title": "Techniques professionnelles",
+          "items": [
+            "Maquillage de toutes les carnations",
+            "Maquillage des peaux matures",
+            "Maquillage homme",
+            "Maquillage cabaret et scène",
+            "Maquillage des futures mariées",
+            "Maquillage historique"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et artistique immédiatement opérationnelle pour maîtriser le travail du teint haute définition, les jeux d'ombres et de lumières et les finis impeccables afin de sublimer chaque visage sous l'œil de l'objectif.",
+      "similarSlugs": [
+        "formation-maquillage-effets-speciaux",
+        "formation-maquillage-jour",
+        "formation-maquillage-theatre-scene",
+        "formation-maquillage-de-la-mariee"
+      ]
+    },
+    {
+      "id": "formation-maquillage-de-la-mariee",
+      "slug": "formation-maquillage-de-la-mariee",
+      "category": "Formation Makeup",
+      "name": "Formation maquillage de la mariée",
+      "price": 590,
+      "priceLabel": "590,00 €",
+      "image": "/images/products/mariee.jpg",
+      "promo": false,
+      "sortOrder": 2,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-maquillage-de-la-mariee/",
+      "subtitle": "Formation Maquillage De La Mariée",
+      "introTitle": "Maîtrisez les techniques du maquillage de la mariée professionnels",
+      "introText": "Apprenez à réaliser des maquillages pour sublimer les futures mariées lors du plus beau jour de leur vie.\n\nCette formation est dédiée à l'une des prestations les plus demandées du secteur : le maquillage de mariée. Elle combine expertise technique et gestion professionnelle pour vous préparer aux exigences du \"Jour J\".",
+      "highlights": [
+        "L'Essai Mariage : Recherche, analyse des besoins",
+        "Techniques du Teint : Naturel, Parfait, Lumineux et durable",
+        "Techniques des Yeux",
+        "Le Jour J : Organisation, gestion du temps et du stress",
+        "Maquillage des Invités",
+        "Produits longue tenue",
+        "Travail sur toutes les carnations"
+      ],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des maquillages pour sublimer les futures mariées lors du plus beau jour de leur vie.",
+        "Cette formation est dédiée à l'une des prestations les plus demandées du secteur : le maquillage de mariée. Elle combine expertise technique et gestion professionnelle pour vous préparer aux exigences du \"Jour J\".",
+        "Cette formation vous transmet toutes les techniques indispensables : de la création d'un teint lumineux à la maîtrise des regards allant du naturel au plus sophistiqués. Vous apprendrez les techniques de maquillage mais aussi la gestion de la relation client (essai, analyse des besoins) et de l'organisation du Jour J.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 3 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles utilisées par les maquilleurs professionnels."
+        },
+        {
+          "title": "💻 5 sessions de coaching en visio (2h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer, recevoir des corrections personnalisées et améliorer votre technique.\nLes exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 6 heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des maquilleurs expérimentés pour perfectionner votre gestuelle votre précision et répondre à toutes vos questions.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir des techniques et conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Shooting photo professionnel",
+              "text": "Un shooting réalisé avec une photographe professionnelle dans notre studio, afin de valoriser votre travail et commencer votre portfolio."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques du teint",
+          "items": [
+            "Application d'un teint naturel",
+            "Application d'un teint parfait"
+          ]
+        },
+        {
+          "title": "Techniques des yeux",
+          "items": [
+            "Le maquillage 1 couleur : le fondu",
+            "Le maquillage 3 couleurs : italienne / gradien",
+            "Les yeux étirés : la banane / le cut crease"
+          ]
+        },
+        {
+          "title": "Techniques professionnelles",
+          "items": [
+            "L'essaie mariage : recherche et analyse des besoins",
+            "Le jour j : gestion du temps, organisation",
+            "Le maquillage des invités",
+            "Le maquillage des peaux matures"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et artistique immédiatement opérationnelle pour maîtriser le teint parfait, les dégradés intemporels et les produits longue tenue afin de révéler l'éclat unique de chaque mariée pour le plus beau jour de sa vie.",
+      "similarSlugs": [
+        "formation-maquillage-jour",
+        "formation-maquillage-effets-speciaux",
+        "formation-maquillage-theatre-scene",
+        "formation-facepainting"
+      ]
+    },
+    {
+      "id": "formation-maquillage-effets-speciaux",
+      "slug": "formation-maquillage-effets-speciaux",
+      "category": "Formation Makeup",
+      "name": "Formation maquillage effets spéciaux",
+      "price": 1200,
+      "priceLabel": "1 200,00 €",
+      "image": "/images/products/effets-speciaux.jpg",
+      "promo": false,
+      "sortOrder": 3,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-maquillage-effets-speciaux/",
+      "subtitle": "Formation Maquillage Effets Spéciaux",
+      "introTitle": "Maîtrisez les techniques du maquillage effets spéciaux",
+      "introText": "Apprenez maîtriser l'art de l'illusion, du réalisme médical aux créations fantastiques les plus spectaculaires.\n\nCette formation vous transmet les techniques essentielles du maquillage SFX : de la maîtrise des prothèses à la création de blessures et de créatures.",
+      "highlights": [
+        "Hygiène et sécurité des produits SFX",
+        "Maîtrise des matières et du latex",
+        "Techniques de sculpture et de moulage de prothèses",
+        "Application et raccord de prothèses",
+        "Peinture et colorisation",
+        "Création de créatures"
+      ],
+      "descriptionParagraphs": [
+        "Apprenez maîtriser l'art de l'illusion, du réalisme médical aux créations fantastiques les plus spectaculaires.",
+        "Cette formation vous transmet les techniques essentielles du maquillage SFX : de la maîtrise des prothèses à la création de blessures et de créatures.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 2 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles utilisées par les maquilleurs professionnels."
+        },
+        {
+          "title": "💻 6 sessions de coacing en visio (3h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer, recevoir des corrections personnalisées et améliorer votre technique.\nLes exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 10 heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des maquilleurs expérimentés pour perfectionner votre gestuelle votre précision et répondre à toutes vos questions.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir des techniques et conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Shooting photo professionnel",
+              "text": "Un shooting réalisé avec une photographe professionnelle dans notre studio, afin de valoriser votre travail et commencer votre portfolio."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques de base",
+          "items": [
+            "Les produits et règles du maquillage effets spéciaux"
+          ]
+        },
+        {
+          "title": "Techniques professionnel FX",
+          "items": [
+            "Blessé, boxeur",
+            "brulures",
+            "Création de prothèses",
+            "Le vieillissement au latex",
+            "Zombies",
+            "Création d'un personnage fantastique avec prothèses"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et artistique immédiatement opérationnelle pour maîtriser les matières, créer des illusions saisissantes et répondre aux exigences de réalisme du cinéma et de l'audiovisuel.",
+      "similarSlugs": [
+        "formation-maquillage-theatre-scene",
+        "formation-maquillage-de-la-mariee",
+        "formation-maquillage-beaute-studio",
+        "formation-facepainting"
+      ]
+    },
+    {
+      "id": "formation-facepainting",
+      "slug": "formation-facepainting",
+      "category": "Formation Makeup",
+      "name": "Formation Maquillage Facepainting",
+      "price": 690,
+      "priceLabel": "690,00 €",
+      "image": "/images/products/facepainting.jpg",
+      "promo": false,
+      "sortOrder": 4,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-facepainting/",
+      "subtitle": "Formation Maquillage Facepainting",
+      "introTitle": "Maîtrisez les techniques du Facepainting professionnel",
+      "introText": "Apprenez à réaliser des transformations artistiques spectaculaires, dignes des plus grands événements et festivals.\n\nCette formation vous transmet les techniques essentielles du maquillage artistique sur visage : de la maîtrise du tracé de précision à la création de designs complexes et colorés.",
+      "highlights": [
+        "Hygiène et produits spécifiques au Facepainting",
+        "Techniques de tracé",
+        "Designs rapides pour l'événementiel (Enfants & Adultes)",
+        "Maquillage de caractérisation (Animaux, Super-héros, Fantastique)",
+        "Maquillage artistique de scène et de shooting",
+        "Travail sur toutes les carnations"
+      ],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des transformations artistiques spectaculaires, dignes des plus grands événements et festivals.",
+        "Cette formation vous transmet les techniques essentielles du maquillage artistique sur visage : de la maîtrise du tracé de précision à la création de designs complexes et colorés.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles (événementiel, animation), vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 2 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles utilisées par les maquilleurs professionnels."
+        },
+        {
+          "title": "💻 5 sessions de coaching en visio (2h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer, recevoir des corrections personnalisées et améliorer votre technique.\nLes exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 6 heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des maquilleurs expérimentés pour perfectionner votre gestuelle votre précision et répondre à toutes vos questions.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir des techniques et conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Shooting photo professionnel",
+              "text": "Un shooting réalisé avec une photographe professionnelle dans notre studio, afin de valoriser votre travail et commencer votre portfolio."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques de base",
+          "items": [
+            "Les produits et règles du Facepainting",
+            "Entraînement sur planche"
+          ]
+        },
+        {
+          "title": "Techniques de Facepainting",
+          "items": [
+            "Facepainting féminin : fleurs et arabesques",
+            "Facepainting adulte : Halloween",
+            "Facepainting enfant : papillons et licornes",
+            "Facepainting enfant : modèles animaliers"
+          ]
+        },
+        {
+          "title": "Techniques spécialisées",
+          "items": [
+            "au choix : Le Belly painting (maquillage sur ventre de femme enceinte) ou forme géométrique"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : Vous transmettre un savoir-faire créatif et technique immédiatement opérationnel pour maîtriser le tracé de pinceau, la fluidité des dégradés et l'harmonie des contrastes afin d'animer vos événements ou lancer votre activité de maquilleuse artistique avec succès.",
+      "similarSlugs": [
+        "formation-maquillage-beaute-studio",
+        "formation-maquillage-effets-speciaux",
+        "formation-maquillage-de-la-mariee",
+        "formation-maquillage-jour"
+      ]
+    },
+    {
+      "id": "formation-maquillage-jour",
+      "slug": "formation-maquillage-jour",
+      "category": "Formation Makeup",
+      "name": "Formation maquillage jour",
+      "price": 290,
+      "priceLabel": "290,00 €",
+      "image": "/images/products/maquillage-jour.jpg",
+      "promo": false,
+      "sortOrder": 5,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-maquillage-jour/",
+      "subtitle": "Formation Maquillage Jour Professionnel",
+      "introTitle": "Maîtrisez les techniques essentielles du Maquillage Jour",
+      "introText": "Apprenez à réaliser des maquillages au fini naturel, frais et parfaitement maîtrisés pour le quotidien.\n\nCette formation propose une immersion complète dans les techniques fondamentales du teint et de la valorisation du regard (fondu, gradient). Conçue pour être immédiatement opérationnelle, elle allie rigueur technique et maîtrise de l'harmonie naturelle.",
+      "highlights": [
+        "Culture et fondamentaux du maquillage",
+        "Étude des produits et des matières",
+        "Techniques du teint : l'application naturelle",
+        "Formes de maquillage des yeux (1 couleur fondue, 3 couleurs gradient)"
+      ],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des looks d'éclat naturel, frais et parfaitement maîtrisés pour le quotidien.",
+        "Cette formation spécialisée vous transmet les bases fondamentales du maquillage professionnel naturel : de l'application d'un teint lumineux et naturel aux techniques de valorisation du regard.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 2h heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles utilisées par les maquilleurs professionnels."
+        },
+        {
+          "title": "💻 2 sessions de coaching en visio (2h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer, recevoir des corrections personnalisées et améliorer votre technique.\nLes exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 en option : 3H heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des maquilleurs expérimentés pour perfectionner votre gestuelle votre précision et répondre à toutes vos questions.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir des techniques et conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Shooting photo professionnel",
+              "text": "Un shooting réalisé avec une photographe professionnelle dans notre studio, afin de valoriser votre travail et commencer votre portfolio."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques du teint",
+          "items": [
+            "Application d'un teint naturel"
+          ]
+        },
+        {
+          "title": "Techniques des yeux",
+          "items": [
+            "Les formes de maquillage des yeux",
+            "Maquillage 1 couleur : le fondu",
+            "Maquillage 3 couleurs : technique italienne / gradient"
+          ]
+        },
+        {
+          "title": "Techniques professionnelles",
+          "items": [
+            "Culture du maquillage",
+            "Produits et matières",
+            "Maquillage jour"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et artistique immédiatement opérationnelle pour maîtriser les corrections légères, le travail du teint et les harmonies douces afin de révéler l'éclat naturel de chaque visage au quotidien.",
+      "similarSlugs": [
+        "formation-maquillage-effets-speciaux",
+        "formation-maquillage-de-la-mariee",
+        "formation-maquillage-theatre-scene",
+        "formation-facepainting"
+      ]
+    },
+    {
+      "id": "formation-maquillage-theatre-scene",
+      "slug": "formation-maquillage-theatre-scene",
+      "category": "Formation Makeup",
+      "name": "Formation maquillage théâtre/scène",
+      "price": 390,
+      "priceLabel": "390,00 €",
+      "image": "/images/formation-a-lille/imported/026.jpg",
+      "promo": false,
+      "sortOrder": 6,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-maquillage-theatre-scene/",
+      "subtitle": "Formation Maquillage de Scène & Effets Spéciaux",
+      "introTitle": "Maîtrisez les techniques du maquillage de scène professionnel",
+      "introText": "Apprenez à créer des transformations spectaculaires et des personnages inoubliables pour le théâtre et le spectacle vivant.\n\nCette formation vous transmet les techniques essentielles du maquillage de scène : de la structure du visage accentuée pour la visibilité lointaine au maquillage de caractérisation (effets de vieillissement, cicatrices, créatures).",
+      "highlights": [
+        "Structure et morphologie du visage (Théâtre/Scène)",
+        "Maquillage de caractérisation et de personnage",
+        "Maquillage artistique et d'époque",
+        "Résistance et tenue sous éclairage scénique",
+        "Travail sur toutes les carnations"
+      ],
+      "descriptionParagraphs": [
+        "Apprenez à créer des transformations spectaculaires et des personnages inoubliables pour le théâtre et le spectacle vivant.",
+        "Cette formation vous transmet les techniques essentielles du maquillage de scène : de la structure du visage accentuée pour la visibilité lointaine au maquillage de caractérisation (effets de vieillissement, cicatrices, créatures).",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles (ouvertes au public), vous développerez des compétences solides et une véritable précision technique indispensable au spectacle."
+      ],
+      "includes": [
+        {
+          "title": "🎥 2 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles utilisées par les maquilleurs professionnels."
+        },
+        {
+          "title": "💻 3 sessions de coaching en visio (2h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer, recevoir des corrections personnalisées et améliorer votre technique.\nLes exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 3 heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des maquilleurs expérimentés pour perfectionner votre gestuelle votre précision et répondre à toutes vos questions.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir des techniques et conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Shooting photo professionnel",
+              "text": "Un shooting réalisé avec une photographe professionnelle dans notre studio, afin de valoriser votre travail et commencer votre portfolio."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques de base",
+          "items": [
+            "Les produits et règles du maquillage théâtre et scène"
+          ]
+        },
+        {
+          "title": "Techniques professionnel théâtre/scène",
+          "items": [
+            "Maquillage intense edito/drag/cabaret",
+            "Le vieillissement au fard gras",
+            "Personnage malade, drogué, blessé",
+            "Pose de prothèses et Création d'un personnage fantastique"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et artistique immédiatement opérationnelle pour maîtriser le travail du teint haute définition, les jeux d'ombres et de lumières et les finis impeccables afin de sublimer chaque visage sous l'œil de l'objectif.",
+      "similarSlugs": [
+        "formation-maquillage-effets-speciaux",
+        "formation-maquillage-beaute-studio",
+        "formation-facepainting",
+        "formation-maquillage-jour"
+      ]
+    },
+    {
+      "id": "formation-conseil-en-image-complet",
+      "slug": "formation-conseil-en-image-complet",
+      "category": "conseil en Image",
+      "name": "Formation conseil en image complet",
+      "price": 550,
+      "priceLabel": "550,00 €",
+      "image": "/images/formations/conseil-en-image/formation-conseil-en-image-complet.webp",
+      "promo": false,
+      "sortOrder": 7,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-conseil-en-image-complet/",
+      "subtitle": "Formation conseil en image complet",
+      "introTitle": "Maîtrisez toutes les techniques du conseil en image",
+      "introText": "Apprenez à réaliser des accompagnements personnalisés et adaptés à chaque personne.\n\nCette formation complète vous transmet les techniques essentielles du conseil en image : de l'harmonie des couleurs révélée par la colorimétrie à la valorisation de chaque silhouette par l'analyse morphologique, pour sublimer l'identité unique de chaque client.",
+      "highlights": [
+        "Colorimétrie",
+        "Conseil en image & morphologie visage",
+        "Conseil en image & morphologie corps"
+      ],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des accompagnements personnalisés et adaptés à chaque personne.",
+        "Cette formation complète vous transmet les techniques essentielles du conseil en image : de l'harmonie des couleurs révélée par la colorimétrie à la valorisation de chaque silhouette par l'analyse morphologique, pour sublimer l'identité unique de chaque client.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 2 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles d'analyse colorimétrique, de morpho-visage et de silhouette utilisées par les conseillers en image."
+        },
+        {
+          "title": "💻 2 sessions de coaching en visio (3h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer les diagnostics complets (couleurs, visage et corps), maîtriser le draping et recevoir des corrections personnalisées. Les exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 4 heures dans notre centre à Lille et en accompagnement shopping",
+          "text": "Une immersion de mise en pratique encadrée par des experts en image pour perfectionner votre précision (températures, intensités, mesures), maîtriser les conseils coiffure, le choix des coupes et des matières, et apprendre à adapter le style à la personnalité du client.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir l'étude approfondie de l'architecture vestimentaire et des conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Kit d'outils professionnel complet",
+              "text": "Un kit comprenant les outils essentiels pour l'analyse globale : drapes de couleurs, outils visagisme (morpho-visage), ruban à mesurer (silhouette) et des fiches mémos (harmonie, coiffure, vestimentaire), afin de commencer immédiatement vos accompagnements professionnels"
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques professionnel conseil en image",
+          "items": [
+            "1. Colorimétrie :",
+            "Explications et règles du conseil en image",
+            "Explications et règles de la colorimétrie",
+            "Etude des couleurs et de leurs compositions",
+            "Etude de leurs températures et intensités",
+            "Jeu de drapping",
+            "2. Conseil en image & morphologie visage :",
+            "Etude des différentes morphologie et proportion du visage",
+            "Conseil coiffure",
+            "Adaptation style/habitude",
+            "3. Conseil en image & morphologie corps :",
+            "Etude des différentes morphologie et proportion du corps",
+            "Conseil coiffure",
+            "Adaptation style/habitude",
+            "Accompagnement en boutique : personal shopper"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et analytique immédiatement opérationnelle pour maîtriser l'harmonie des couleurs, l'équilibre des volumes et les proportions du visage comme du corps, afin de révéler l'identité visuelle globale de chaque personne.",
+      "similarSlugs": [
+        "formation-colorimetrie",
+        "formation-conseil-en-image-visage",
+        "formation-conseil-en-image-corps"
+      ]
+    },
+    {
+      "id": "formation-conseil-en-image-corps",
+      "slug": "formation-conseil-en-image-corps",
+      "category": "conseil en Image",
+      "name": "Formation conseil en image corps",
+      "price": 390,
+      "priceLabel": "390,00 €",
+      "image": "/images/formations/conseil-en-image/formation-conseil-en-image-corps.webp",
+      "promo": false,
+      "sortOrder": 8,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-conseil-en-image-corps/",
+      "subtitle": "Formation Conseil en Image & Morphologie Corps",
+      "introTitle": "Maîtrisez les techniques de la colorimétrie",
+      "introText": "Apprenez à réaliser des analyses morphologiques et des recommandations de style professionnelles.\n\nCette formation spécialisée vous transmet les techniques essentielles du conseil en image appliqué à la silhouette : de la valorisation de chaque morphologie corporelle à la maîtrise des coupes et des proportions vestimentaires, en passant par le choix des matières idéal, pour révéler l'identité unique et la confiance de chaque client, juste au niveau de la silhouette.",
+      "highlights": [],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des analyses morphologiques et des recommandations de style professionnelles.",
+        "Cette formation spécialisée vous transmet les techniques essentielles du conseil en image appliqué à la silhouette : de la valorisation de chaque morphologie corporelle à la maîtrise des coupes et des proportions vestimentaires, en passant par le choix des matières idéal, pour révéler l'identité unique et la confiance de chaque client, juste au niveau de la silhouette.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 2 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles d'analyse morphologique corporelle et d'harmonisation des proportions utilisées par les conseillers en image."
+        },
+        {
+          "title": "💻 2 sessions de coaching en visio (2h chacune et une session de 1h)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer les diagnostics silhouette complets (morphologie, prise de mesures, lignes) et recevoir des corrections personnalisées. Les exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 4 heures dans notre centre à Lille et en accompagnement shopping",
+          "text": "Une immersion de mise en pratique encadrée par des experts en image pour perfectionner votre précision dans le choix des coupes et des matières, maîtriser les corrections vestimentaires et apprendre à adapter le style à la personnalité du client.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir l'étude approfondie de l'architecture vestimentaire et des conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Kit d'outils silhouette",
+              "text": "Un kit comprenant les outils essentiels pour l'analyse corporelle (ruban à mesurer, fiches morpho, nuancier de coupes) et des fiches mémos sur l'harmonie vestimentaire, afin de commencer immédiatement vos accompagnements professionnels."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques professionnel conseil en image",
+          "items": [
+            "Explications et règles du conseil en image",
+            "Explications et règles de la colorimétrie",
+            "Etude des couleurs et de leurs compositions",
+            "Etude de leurs températures et intensités",
+            "Jeu de drapping",
+            "Etude des différentes morphologie et proportion du corps",
+            "Adaptation style/habitude"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et analytique immédiatement opérationnelle pour maîtriser les volumes, l'équilibre des silhouettes et apporter des conseils vestimentaires personnalisés afin de sublimer la morphologie naturelle de chaque corps.",
+      "similarSlugs": [
+        "formation-conseil-en-image-complet",
+        "formation-colorimetrie",
+        "formation-conseil-en-image-visage"
+      ]
+    },
+    {
+      "id": "formation-conseil-en-image-visage",
+      "slug": "formation-conseil-en-image-visage",
+      "category": "conseil en Image",
+      "name": "Formation conseil en image visage",
+      "price": 390,
+      "priceLabel": "390,00 €",
+      "image": "/images/formations/conseil-en-image/formation-conseil-en-image-visage.webp",
+      "promo": false,
+      "sortOrder": 9,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-conseil-en-image-visage/",
+      "subtitle": "Formation Conseil en Image & Morphologie du Visage",
+      "introTitle": "Maîtrisez les techniques de la colorimétrie",
+      "introText": "Apprenez à réaliser des diagnostics et des recommandations visagisme professionnels.\n\nCette formation spécialisée vous transmet les techniques essentielles du conseil en image appliqué au visage : de l'harmonie des couleurs révélée par la colorimétrie à la valorisation de chaque morphologie de visage par l'analyse des proportions, en passant par la coiffure idéale, pour révéler l'identité unique et le rayonnement de chaque client, juste au niveau du visage.",
+      "highlights": [],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des diagnostics et des recommandations visagisme professionnels.",
+        "Cette formation spécialisée vous transmet les techniques essentielles du conseil en image appliqué au visage : de l'harmonie des couleurs révélée par la colorimétrie à la valorisation de chaque morphologie de visage par l'analyse des proportions, en passant par la coiffure idéale, pour révéler l'identité unique et le rayonnement de chaque client, juste au niveau du visage.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 2 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles d'analyse morpho-visage et de colorimétrie utilisées par les conseillers en image."
+        },
+        {
+          "title": "💻 2 sessions de coaching en visio (3h chacune et une session de 1h)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer les diagnostics complets (couleurs et morphologie) et recevoir des corrections personnalisées. Les exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 4 heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des experts en image pour perfectionner votre précision dans le draping (températures, intensités), maîtriser les conseils coiffure et apprendre à adapter le style aux habitudes du client.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir l'étude approfondie des proportions du visage et des conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Kit d'outils visagisme",
+              "text": "Un kit comprenant les outils essentiels pour l'analyse morpho-visage et des fiches mémos sur l'harmonie des couleurs et la coiffure, afin de commencer immédiatement vos accompagnements professionnels."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques professionnel conseil en image",
+          "items": [
+            "Explications et règles du conseil en image",
+            "Explications et règles de la colorimétrie",
+            "Etude des couleurs et de leurs compositions",
+            "Etude de leurs températures et intensités",
+            "Jeu de draping",
+            "Etude des différentes morphologie et proportion du visage",
+            "Conseil coiffure",
+            "Adaptation style/habitude"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ shooting photo professionnel pour valoriser votre travail"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et analytique immédiatement opérationnelle pour maîtriser les contrastes, les intensités colorées et réaliser des diagnostics de draping précis afin de révéler l'éclat naturel de chaque visage.",
+      "similarSlugs": [
+        "formation-conseil-en-image-complet",
+        "formation-conseil-en-image-corps",
+        "formation-colorimetrie"
+      ]
+    },
+    {
+      "id": "formation-colorimetrie",
+      "slug": "formation-colorimetrie",
+      "category": "conseil en Image",
+      "name": "Formation Colorimétrie",
+      "price": 280,
+      "priceLabel": "280,00 €",
+      "image": "/images/formations/conseil-en-image/formation-colorimetrie.webp",
+      "promo": false,
+      "sortOrder": 10,
+      "oldUrl": "https://www.maoyamakeupformation.com/product/formation-colorimetrie/",
+      "subtitle": "Formation Colorimétrie",
+      "introTitle": "Maîtrisez les techniques de la colorimétrie",
+      "introText": "Apprenez à réaliser des diagnostics et des recommandations couleurs professionnels.\n\nCette formation spécialisée vous transmet les techniques essentielles de la colorimétrie appliquée à l'image : de la maîtrise de l'harmonie des couleurs et des contrastes au choix précis de la palette idéale, pour révéler l'identité unique et le rayonnement de chaque client grâce à la puissance des teintes.",
+      "highlights": [],
+      "descriptionParagraphs": [
+        "Apprenez à réaliser des diagnostics et des recommandations couleurs professionnels.",
+        "Cette formation spécialisée vous transmet les techniques essentielles de la colorimétrie appliquée à l'image : de la maîtrise de l'harmonie des couleurs et des contrastes au choix précis de la palette idéale, pour révéler l'identité unique et le rayonnement de chaque client grâce à la puissance des teintes.",
+        "Grâce à une pédagogie mêlant vidéos professionnelles, coaching personnalisé et pratique en conditions réelles, vous développerez des compétences solides et une véritable précision technique."
+      ],
+      "includes": [
+        {
+          "title": "🎥 1,30 heures de vidéos professionnelles",
+          "text": "Des démonstrations détaillées pour apprendre les techniques essentielles d'analyse colorimétrique utilisées par les conseillers en image."
+        },
+        {
+          "title": "💻 2 sessions de coaching en visio (2h chacune)",
+          "text": "Des sessions d'entraînement guidées pour pratiquer, réaliser des diagnostics couleurs complets et recevoir des corrections personnalisées. Les exercices se réalisent sur modèle ou sur vous-même."
+        },
+        {
+          "title": "🏫 3 heures dans notre centre à Lille",
+          "text": "Une immersion de mise en pratique encadrée par des experts en image pour perfectionner votre maîtrise des palettes, votre précision dans le draping et répondre à toutes vos questions.\n\nUne attestation de compétence vous sera délivré suite à votre pratique."
+        },
+        {
+          "items": [
+            {
+              "title": "+ Masterclass exclusive",
+              "text": "Un moment privilégié pour découvrir des techniques avancées d'harmonie des couleurs et des conseils issus de l'expérience professionnelle."
+            },
+            {
+              "title": "+ Kit de draping professionnel",
+              "text": "Un kit d'analyse colorimétrique complet, comprenant les drapes de couleurs essentiels, afin de commencer immédiatement vos premiers accompagnements professionnels."
+            }
+          ]
+        }
+      ],
+      "program": [
+        {
+          "title": "Techniques de base",
+          "items": [
+            "Explications et règles de la colorimétrie",
+            "Etude des couleurs et de leurs compositions",
+            "Etude de leurs températures et intensités"
+          ]
+        },
+        {
+          "title": "Techniques professionnel colorimétrie",
+          "items": [
+            "Jeu de draping"
+          ]
+        }
+      ],
+      "certification": "À l'issue de la formation, vous recevrez un certificat de compétences et d'assiduité, validant votre participation et les techniques acquises.",
+      "prerequisites": [
+        "Maîtrise de la langue française (oral et écrit)",
+        "Posséder un ordinateur, smartphone ou tablette",
+        {
+          "text": "Posséder les produits et outils nécessaires : ",
+          "link": {
+            "href": "/formations/malette-makeup-beaute-essentielle-aux-formations/",
+            "label": "voir pack produits"
+          }
+        },
+        "Posséder un webcam, une bonne connexion ainsi qu'un un espace calme avec un bon éclairage"
+      ],
+      "whyStudentsLove": [
+        "✔ apprentissage concret et facile à suivre",
+        "✔ démonstrations détaillées étape par étape",
+        "✔ accompagnement personnalisé en visio",
+        "✔ pratique réelle avec maquilleurs expérimentés",
+        "✔ kit de draping professionnel"
+      ],
+      "objective": "Notre objectif est simple : vous transmettre une expertise technique et analytique immédiatement opérationnelle pour maîtriser les contrastes, les intensités colorées et réaliser des diagnostics de draping précis afin de révéler l'éclat naturel de chaque visage.",
+      "similarSlugs": [
+        "formation-conseil-en-image-complet",
+        "formation-conseil-en-image-visage",
+        "formation-conseil-en-image-corps"
+      ]
+    }
+  ]
+}

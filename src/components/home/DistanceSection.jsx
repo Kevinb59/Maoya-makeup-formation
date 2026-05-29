@@ -6,13 +6,15 @@ import { revealDelayStyle } from "@/utils/reveal";
 /**
  * Étapes du programme hybride à distance (vidéo, visio, masterclass).
  */
-export default function DistanceSection() {
+export default function DistanceSection({ showIntro = true }) {
   return (
     <section className="distance-section section-pad">
-      <div className="section-intro centered reveal reveal-fade-up">
-        <SectionLabel>Programme hybride</SectionLabel>
-        <h2>Nos programmes à distance</h2>
-      </div>
+      {showIntro && (
+        <div className="section-intro centered reveal reveal-fade-up">
+          <SectionLabel>Programme hybride</SectionLabel>
+          <h2>Nos programmes à distance</h2>
+        </div>
+      )}
       <div className="distance-grid">
         {distanceSteps.map((step, index) => {
           const Icon = step.icon;

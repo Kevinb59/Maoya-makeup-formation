@@ -4,6 +4,7 @@
  */
 export const logos = {
   main: "/logos/logo-maoya.svg",
+  footer: "/logos/logo-maoya-footer.svg",
 };
 
 /**

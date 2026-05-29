@@ -1,4 +1,5 @@
 import "./globals.css";
+import ClientProviders from "@/components/providers/ClientProviders";
 
 export const metadata = {
   title: "Maoya Makeup Formation — Formation en maquillage & conseil en image",
@@ -8,8 +9,10 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="fr">
-      <body>{children}</body>
+    <html lang="fr" suppressHydrationWarning>
+      <body>
+        <ClientProviders>{children}</ClientProviders>
+      </body>
     </html>
   );
 }

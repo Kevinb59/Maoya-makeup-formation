@@ -9,6 +9,11 @@ const compat = new FlatCompat({
   baseDirectory: __dirname,
 });
 
-const eslintConfig = [...compat.extends("next/core-web-vitals")];
+const eslintConfig = [
+  ...compat.extends("next/core-web-vitals"),
+  // Ignore les fichiers générés (build Next.js) afin que la lint reflète uniquement
+  // le code source.
+  { ignores: [".next/**"] },
+];
 
 export default eslintConfig;

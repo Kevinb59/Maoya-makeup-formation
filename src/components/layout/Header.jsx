@@ -3,13 +3,15 @@
 import { Menu, ShoppingBag, X } from "lucide-react";
 import { navItems } from "@/data/content";
 import { site } from "@/data/site";
+import { useCart } from "@/context/CartContext";
 import { useHeaderScroll } from "@/hooks/useHeaderScroll";
 
 /**
  * En-tête fixe avec navigation desktop/mobile et bouton panier.
  */
-export default function Header({ cartOpen, setCartOpen }) {
+export default function Header() {
   const { menuOpen, setMenuOpen, headerClass, headerStyle } = useHeaderScroll();
+  const { count, open, setOpen } = useCart();
   const safeNavItems = Array.isArray(navItems) ? navItems : [];
 
   return (
@@ -35,11 +37,11 @@ export default function Header({ cartOpen, setCartOpen }) {
           <button
             className="cart-button"
             type="button"
-            onClick={() => setCartOpen(!cartOpen)}
+            onClick={() => setOpen(!open)}
             aria-label="Ouvrir le panier"
           >
             <ShoppingBag size={18} />
-            <span>0</span>
+            <span>{count}</span>
           </button>
           <button
             className="menu-button"
